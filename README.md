@@ -29,3 +29,5 @@ Azure oferece ferramentas integradas para gerenciamento e monitoramento centrali
 Suporte e Integração com Ferramentas Microsoft:
 
 Azure é altamente integrado com outros produtos e serviços da Microsoft, como Office 365, Dynamics 365, e Power Platform. Essa integração facilita a implementação e o uso de soluções de TI em todo o ecossistema Microsoft.
+
+Na computação em nuvem, o modelo de responsabilidade compartilhada é um conceito fundamental que define as responsabilidades da provedora de serviços em nuvem (neste caso, Microsoft Azure) e dos clientes (as empresas que utilizam os serviços do Azure). O entendimento claro dessas responsabilidades é crucial para garantir a segurança e conformidade dos ambientes em nuvem.
