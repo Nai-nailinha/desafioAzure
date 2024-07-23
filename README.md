@@ -31,3 +31,55 @@ Suporte e Integração com Ferramentas Microsoft:
 Azure é altamente integrado com outros produtos e serviços da Microsoft, como Office 365, Dynamics 365, e Power Platform. Essa integração facilita a implementação e o uso de soluções de TI em todo o ecossistema Microsoft.
 
 Na computação em nuvem, o modelo de responsabilidade compartilhada é um conceito fundamental que define as responsabilidades da provedora de serviços em nuvem (neste caso, Microsoft Azure) e dos clientes (as empresas que utilizam os serviços do Azure). O entendimento claro dessas responsabilidades é crucial para garantir a segurança e conformidade dos ambientes em nuvem.
+
+Resumo dos conteúdos da prova AZ-900 com explicações de cada tópico:
+
+1. Conceitos de NuvemPrincípios básicos da computação em nuvem:
+Elasticidade: Capacidade de ajustar recursos dinamicamente com base na demanda.
+Escalabilidade: Capacidade de aumentar ou diminuir recursos conforme necessário.
+Alta disponibilidade: Garantia de que os serviços estarão disponíveis 24/7.
+Recuperação de desastres: Capacidade de restaurar dados e aplicações após uma falha ou desastre.
+Modelos de serviço em nuvem:
+IaaS (Infrastructure as a Service): Fornece recursos de computação virtualizados, como máquinas virtuais, armazenamento e redes. Ex: Azure Virtual Machines.
+PaaS (Platform as a Service): Fornece uma plataforma gerenciada para desenvolvimento e implantação de aplicações. Ex: Azure App Services.
+SaaS (Software as a Service): Fornece software disponível via internet, sem necessidade de instalação local. Ex: Microsoft Office 365.
+Modelos de implementação em nuvem:
+Nuvem pública: Serviços oferecidos ao público em geral pela internet, hospedados por terceiros. Ex: Microsoft Azure.
+Nuvem privada: Infraestrutura de nuvem exclusiva para uma única organização, podendo ser local ou hospedada por terceiros.
+Nuvem híbrida: Combinação de nuvem pública e privada, permitindo que dados e aplicações sejam compartilhados entre elas.
+
+2. Serviços Principais do AzureServiços de computação:
+Máquinas Virtuais (VMs): Instâncias de servidores virtuais hospedados na nuvem.
+Azure App Services: Plataforma para desenvolvimento, hospedagem e gerenciamento de aplicações web e APIs.
+Serviços de rede:Azure Virtual Network: Criação de redes privadas na nuvem, permitindo a comunicação segura entre recursos Azure.
+Load Balancer: Distribuição de tráfego de rede para otimizar a eficiência e a disponibilidade dos serviços.
+Serviços de armazenamento:
+Blob Storage: Armazenamento de grandes quantidades de dados não estruturados, como documentos, imagens e vídeos.
+Azure SQL Database: Banco de dados relacional gerenciado, baseado no Microsoft SQL Server.
+Serviços de banco de dados:Cosmos DB: Banco de dados NoSQL totalmente gerenciado, projetado para alta disponibilidade e baixa latência.
+SQL Database: Banco de dados relacional gerenciado, com suporte a SQL.
+
+3. Segurança, Privacidade, Conformidade e ConfiançaSegurança no Azure:
+Azure Security Center: Ferramenta para gerenciamento de segurança e proteção contra ameaças.
+Key Vault: Serviço para gerenciamento de chaves de criptografia, segredos e certificados.
+Governança e conformidade:Azure Policy: Serviço para criação e gerenciamento de políticas de conformidade.
+Azure Blueprints: Ferramenta para definição de padrões e configurações em ambientes Azure.
+Privacidade e proteção de dados:GDPR: Regulamento Geral sobre a Proteção de Dados, lei de proteção de dados da União Europeia.
+Microsoft Privacy Statement: Declaração de privacidade da Microsoft, descrevendo como os dados são coletados e usados.
+
+4. Preços e Suporte do AzureModelos de precificação e gerenciamento de custos:
+Pagamento conforme o uso: Pague apenas pelos recursos utilizados.
+Preços reservados: Descontos para compromissos de longo prazo.
+Ferramentas de planejamento e gerenciamento de custos:
+Azure Pricing Calculator: Calculadora para estimar custos de serviços Azure.
+Azure Cost Management: Ferramenta para monitoramento e controle de gastos no Azure.
+Suporte e SLA (Service Level Agreements):
+Planos de suporte do Azure: Diferentes níveis de suporte técnico e consultoria.
+SLA: Acordos que definem o nível de serviço garantido, como tempo de atividade e desempenho.
+
+5. Características Gerais do AzureIdentidade, governança e privacidade no Azure:
+Azure Active Directory (AD): Serviço de gerenciamento de identidade e acesso, proporcionando autenticação e autorização.
+Role-Based Access Control (RBAC): Controle de acesso baseado em funções, permitindo permissões granulares para usuários e grupos.
+Monitoramento e gerenciamento de recursos:
+Azure Monitor: Ferramenta para coleta, análise e atuação em métricas e logs de dados de recursos Azure.
+Azure Service Health: Serviço para monitorar a integridade dos serviços Azure e notificar sobre problemas.
